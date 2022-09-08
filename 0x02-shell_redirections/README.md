@@ -1,1 +1,1 @@
-Gif checker
+acrostic checker readme
