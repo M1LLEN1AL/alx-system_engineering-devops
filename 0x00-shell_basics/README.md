@@ -1,1 +1,1 @@
-Cleaning Emacs files
+Creating dirs in shell
