@@ -1,1 +1,1 @@
-Moving files
+Deleting B files
