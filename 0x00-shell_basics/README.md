@@ -1,1 +1,1 @@
-Display long format
+Display hidden
