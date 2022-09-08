@@ -1,1 +1,1 @@
-All user manipulation and permission
+Bond Permission readme
