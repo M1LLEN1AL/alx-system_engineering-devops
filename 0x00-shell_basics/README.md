@@ -1,1 +1,1 @@
-Moving uppercased
+Cleaning Emacs files
