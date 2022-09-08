@@ -1,1 +1,1 @@
-Display hidden
+Display more content and info
