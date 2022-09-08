@@ -1,1 +1,1 @@
-File 9 dup last
+Delete js files
