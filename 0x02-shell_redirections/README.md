@@ -1,1 +1,1 @@
-Disp third line
+writing best school into file
