@@ -1,1 +1,1 @@
-writing best school into file
+The file with dirs
