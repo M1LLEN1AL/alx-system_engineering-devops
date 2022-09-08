@@ -1,1 +1,1 @@
-A John Doe file
+Mirror Permissions
