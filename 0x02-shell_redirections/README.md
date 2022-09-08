@@ -1,1 +1,1 @@
-acrostic checker readme
+Biggest fan finder
