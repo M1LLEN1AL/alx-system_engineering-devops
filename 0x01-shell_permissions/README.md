@@ -1,1 +1,1 @@
-Symbolic link pointer
+Owning conditions
