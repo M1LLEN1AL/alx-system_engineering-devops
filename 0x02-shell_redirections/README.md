@@ -1,1 +1,1 @@
-Empty filechecker
+Gif checker
