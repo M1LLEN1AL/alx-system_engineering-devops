@@ -1,1 +1,1 @@
-Listing files still, more of them
+Magic file for SCHOOL
