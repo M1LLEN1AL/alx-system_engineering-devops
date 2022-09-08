@@ -1,1 +1,1 @@
-Mirror perms
+Execute for all subdirs
