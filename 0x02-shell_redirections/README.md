@@ -1,1 +1,1 @@
-All non-bin files
+All letter words
