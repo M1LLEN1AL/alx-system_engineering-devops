@@ -1,1 +1,1 @@
-Mirror Permissions
+Mirror permissions
