@@ -1,1 +1,1 @@
-Disp last 10 lines
+Last 10 lines 
