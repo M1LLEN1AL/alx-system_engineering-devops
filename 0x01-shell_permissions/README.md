@@ -1,1 +1,1 @@
-Owning conditions
+Changing ownership if cond
